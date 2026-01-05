@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+.p1 {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: rgb(235,129,122);
+}
+
+#second {
+    color: blue;
+    font-size: 36px;
+
+
+}
+
+.thirdadd {
+font-size: 24px;
+
+}
+
+#fifth {
+    background-color: rgb(171, 237, 157);
+    font-weight: bold;
+
+}
